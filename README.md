@@ -16,3 +16,9 @@ Welcome to the Yoga Purchase App repository! This is a React-based website aimed
 - Responsive UI design for seamless user experience across devices.
 - Utilizes React-Toastify for notifications, React Router DOM for page routing, React-Redux for state management and FontAwesomeIcon for icons.
 - Deployed using Netlify for easy access and sharing.
+
+## Screenshots
+
+### Login Page
+
+![Yoga-App Image-1](https://i.postimg.cc/Fz3q0HkH/Screenshot-2024-02-08-200138.png)
