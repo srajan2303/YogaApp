@@ -4,7 +4,7 @@ Welcome to the Yoga Purchase App repository! This is a React-based website aimed
 
 ## Project Overview
 
-- **Website**: [Elda-Health](https://yogaapp1.netlify.app "Elda-Health")
+- **Website**: [Yoga-App](https://yogaapp1.netlify.app "Yoga-App")
 - **Framework**: React.js
 - **Deployment**: Netlify
 - **Libraries**: React-Toastify, React Router DOM, FontAwesomeIcon, React-Redux
