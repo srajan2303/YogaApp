@@ -22,3 +22,36 @@ Welcome to the Yoga Purchase App repository! This is a React-based website aimed
 ### Login Page
 
 ![Yoga-App Image-1](https://i.postimg.cc/Fz3q0HkH/Screenshot-2024-02-08-200138.png)
+
+![Yoga-App Image-2](https://i.postimg.cc/9QWSqVmc/Screenshot-2024-02-08-200415.png)
+
+### Home Page
+
+![Yoga-App Image-3](https://i.postimg.cc/V6bHckRW/Screenshot-2024-02-08-200603.png)
+
+![Yoga-App Image-4](https://i.postimg.cc/KYWsVMnY/Screenshot-2024-02-08-200708.png)
+
+### Product Page
+
+![Yoga-App Image-5](https://i.postimg.cc/xdX6K1WV/Screenshot-2024-02-08-201153.png)
+
+![Yoga-App Image-6](https://i.postimg.cc/kMKh1DDn/Screenshot-2024-02-08-201850.png)
+
+### Batch Page
+
+![Yoga-App Image-7](https://i.postimg.cc/8PGXqDrL/Screenshot-2024-02-08-202812.png)
+
+![Yoga-App Image-8](https://i.postimg.cc/MpKPpD5T/Screenshot-2024-02-08-202844.png)
+
+![Yoga-App Image-8](https://i.postimg.cc/Qd469TYq/Screenshot-2024-02-08-202953.png)
+
+## Deployment
+
+The website is deployed using Netlify and can be accessed at [https://yogaapp1.netlify.app](https://yogaapp1.netlify.app).
+
+## Getting Started
+
+1. Download the zip file and unzip it.
+3. Install dependencies: `npm install`
+4. Start the development server: `npm start`
+5. Open your browser and visit: `https://yogaapp1.netlify.app`
