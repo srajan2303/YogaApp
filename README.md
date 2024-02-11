@@ -52,6 +52,7 @@ The website is deployed using Netlify and can be accessed at [https://yogaapp1.n
 ## Getting Started
 
 1. Download the zip file and unzip it.
-3. Install dependencies: `npm install`
-4. Start the development server: `npm start`
-5. Open your browser and visit: `https://yogaapp1.netlify.app`
+2. Install dependencies: `npm install`
+3. Start the development server: `npm start`
+4. Open your browser and visit: `https://yogaapp1.netlify.app`
+5. Please use 1234 as OTP after entering the phone number.
